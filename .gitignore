@@ -1,0 +1,24 @@
+
+# Logs
+.DS_Store?
+yarn-error.log*
+.Spotlight-V100
+ehthumbs.db
+*.swo
+.idea/
+._*
+.vscode/
+.env.local
+# OS generated files
+Thumbs.db
+npm-debug.log*
+*.swp
+# IDE files
+yarn-debug.log*
+.Trashes
+.env
+# Environment variables
+*.log
+*~
+.env.*.local
+.DS_Store
